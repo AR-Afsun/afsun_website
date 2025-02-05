@@ -35,6 +35,7 @@ if user_input:
 
     else:
         #value = run_llama_answer(user_input)
+        value = " I do not understant your **promt**"
         time_delay = 0.001
 
 
